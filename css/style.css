@@ -181,7 +181,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/inventario-bg.jpg) no-repeat center center;
+	background: url(../img/vinoteca.jpg) no-repeat center center;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -218,7 +218,7 @@ header .intro-text {
 
 
 
-/* Taller */
+/* Vinoteca */
 #about {
 	padding: 120px 0;
 }
@@ -253,7 +253,7 @@ header .intro-text {
 	padding: 0 0 60px 0;
 }
 #restaurant-menu .section-title {
-	background: #444 url(../img/inventario-bg.jpg) center center no-repeat fixed;
+	background: #444 url(../img/inventario.jpg) center center no-repeat fixed;
 	background-size: cover;
 }
 #restaurant-menu .section-title h2 {
@@ -338,7 +338,7 @@ header .intro-text {
 	padding: 0 0 120px 0;
 }
 #portfolio .section-title {
-	background: #444 url(../img/gallery-bg01.jpg) center center no-repeat fixed;
+	background: #444 url(../img/combos.jpg) center center no-repeat fixed;
 	background-size: cover;
 	margin-bottom: 50px;
 }
@@ -457,10 +457,10 @@ ol.type li a:hover {
 }
 
 
-/* Profesores */
+/* Proveedores */
 #team {
 	color: #fff;
-	background: #444 url(../img/team-bg.jpg) center top no-repeat fixed;
+	background: #444 url(../img/proveedores.jpg) center top no-repeat fixed;
 	background-size: cover;
 }
 #team .overlay {
